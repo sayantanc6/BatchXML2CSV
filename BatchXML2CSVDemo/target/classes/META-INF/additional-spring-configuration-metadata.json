@@ -1,0 +1,17 @@
+{"properties": [
+  {
+    "name": "file.input",
+    "type": "java.lang.String",
+    "description": "A description for 'file.input'"
+  },
+  {
+    "name": "PROPERTY_CSV_EXPORT_FILE_HEADER",
+    "type": "java.lang.String",
+    "description": "A description for 'PROPERTY_CSV_EXPORT_FILE_HEADER'"
+  },
+  {
+    "name": "batch.job.export.file.header",
+    "type": "java.lang.String",
+    "description": "A description for 'batch.job.export.file.header'"
+  }
+]}

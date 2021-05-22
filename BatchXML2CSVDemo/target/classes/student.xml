@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<students>
+    <student>
+        <name>Tony Tester</name>
+        <emailAddress>tony.tester@gmail.com</emailAddress>
+        <purchasedPackage>master</purchasedPackage>
+    </student>
+    <student>
+        <name>Nick Newbie</name>
+        <emailAddress>nick.newbie@gmail.com</emailAddress>
+        <purchasedPackage>starter</purchasedPackage>
+    </student>
+    <student>
+        <name>Ian Intermediate</name>
+        <emailAddress>ian.intermediate@gmail.com</emailAddress>
+        <purchasedPackage>intermediate</purchasedPackage>
+    </student>
+</students>
